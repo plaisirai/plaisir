@@ -13,4 +13,4 @@ Easily build chatbots that:
 - Can retrieve relevant information more effectively by **fine-tuning the embeddings model**.
 
 <br/>
-<p align="center"><img src="https://mv-public2.s3.eu-west-1.amazonaws.com/demo.gif" width="662" height="540"></p>
+<p align="center"><img src="https://mv-public2.s3.eu-west-1.amazonaws.com/were.gif" width="662" height="540"></p>
